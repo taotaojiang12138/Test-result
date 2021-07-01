@@ -8,7 +8,7 @@ Single target in EnvLC
 
 ![2](https://github.com/taotaojiang12138/Test-result/blob/main/screencasts/2.gif)
 
-Single target in Env
+Single target in Env（2x speed）
 
 ![3](https://github.com/taotaojiang12138/Test-result/blob/main/screencasts/3.gif)
 
